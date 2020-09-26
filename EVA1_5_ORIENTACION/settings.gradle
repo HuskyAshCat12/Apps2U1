@@ -1,0 +1,2 @@
+rootProject.name='EVA1_5_ORIENTACION'
+include ':app'

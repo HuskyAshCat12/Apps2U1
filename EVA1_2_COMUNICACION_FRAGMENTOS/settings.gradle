@@ -1,0 +1,2 @@
+rootProject.name='EVA1_2_COMUNICACION_FRAGMENTOS'
+include ':app'

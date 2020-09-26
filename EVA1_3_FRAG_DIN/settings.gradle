@@ -1,0 +1,2 @@
+rootProject.name='EVA1_3_FRAG_DIN'
+include ':app'
